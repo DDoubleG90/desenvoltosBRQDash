@@ -14,6 +14,13 @@
           right: 26vw;
           bottom: 3.4vh;
      }
+
+     #garage_button{
+          position: relative;
+          right: 26vw;
+          bottom: 3.4vh;
+     }
+
      #map_button{
           position: relative;
           right: 14vw;
